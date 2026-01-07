@@ -1,16 +1,52 @@
-## Hi there 👋
+# 🌸 hanahaki-lily
 
-<!--
-**hanahaki-lily/hanahaki-lily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D)
+![Bun](https://img.shields.io/badge/Bun-black)
+![Discord](https://img.shields.io/badge/Discord-Bots-5865F2)
 
-Here are some ideas to get you started:
+Game developer focused on **RPG systems, mechanics, and narrative design**.  
+Discord bot developer building **fun, utility, and community tools**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎮 Game Development
+- RPG systems & progression design  
+- Gameplay mechanics and balance  
+- Narrative-driven and systems-based storytelling  
+
+---
+
+## 💬 Discord Development
+- Community-focused bots  
+- Utility and fun features  
+- Scalable command and event architectures  
+
+**Frameworks**
+- discord.js  
+- discordrb  
+
+---
+
+## 💻 Programming Languages
+- JavaScript (ES6+)  
+- Ruby  
+
+---
+
+## ⚙️ Runtime & Tooling
+- Bun  
+- Node.js  
+- Git & GitHub  
+
+---
+
+## 🛠️ Philosophy
+- Systems-first design  
+- Clean, readable, maintainable code  
+- Player and community focused  
+- Built for longevity and scalability  
+
+---
+
+🩷 Thanks for stopping by.
