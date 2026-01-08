@@ -1,11 +1,11 @@
 # 🌸 hanahaki-lily 🌸
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-ffb7c5)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D-ff9acb)
-![HTML](https://img.shields.io/badge/HTML-E34F26-ffc1dc)
-![Bun](https://img.shields.io/badge/Bun-black-ffb3d9)
-![Discord](https://img.shields.io/badge/Discord-Bots-5865F2-f4a3d8)
-![Godot](https://img.shields.io/badge/Godot-Engine-478CBF-f6b1d8)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D)
+![HTML](https://img.shields.io/badge/HTML-E34F26)
+![Bun](https://img.shields.io/badge/Bun-black)
+![Discord](https://img.shields.io/badge/Discord-Bots-5865F2)
+![Godot](https://img.shields.io/badge/Godot-Engine-478CBF)
 
 <p align="center">
   🌷 game dev • 💬 discord bots • 🌸 soft systems & stories 🌸
